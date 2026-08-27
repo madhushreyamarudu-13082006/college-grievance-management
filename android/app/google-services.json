@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845696894378",
+    "project_id": "college-grievance-manage-d4bf8",
+    "storage_bucket": "college-grievance-manage-d4bf8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845696894378:android:d30ae31c60f522906d57d3",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Ykz6MhsvdA9OSEkX57MaVpTMID1Kl1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
